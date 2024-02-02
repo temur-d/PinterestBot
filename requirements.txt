@@ -1,0 +1,5 @@
+environs
+asyncio
+aiogram==2.*
+sqlalchemy
+asyncpg
